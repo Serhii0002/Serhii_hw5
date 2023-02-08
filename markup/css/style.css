@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+/* .container {
+position: absolute;
+width: 200px;
+height: 226px;
+} */
+
+.cle-img {
+    width: 130px;
+    height: 130px;
+}
+
+.col {
+    padding-left: 35px;
+    padding-bottom: 96px;
+    padding-right: 35px;
+    width: 33%;
+    height: 226px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
