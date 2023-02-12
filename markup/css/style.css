@@ -12,21 +12,9 @@ h1 {
     flex-wrap: wrap;
     justify-content: space-between;
     text-align: center;
-    /* background-color: #E0E0E0; */
-    /* padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px;
-    width: 33%;
-    height: 226px; */
 }
 
 .box {
-    /* padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px; */
-    /* width: 33%;
-    height: 226px;
-    background-color: #E0E0E0; */
     height: 226px;
     width: 200px;
     padding-left: 35px;
@@ -46,58 +34,7 @@ span {
     height: 36px;
 }
 
-/* .box1 {
-    height: 226px;
-    width: 200px;
-    padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px;
-    background-color: #e0e0e0;
-} */
-/* .describe {
-    text-align: center;
-} */
-
-/* .card {
-    background-color: #E0E0E0;
-} */
 .img {
     height: 130px;
     width: 130px;
 }
-
-/* .box1 {
-    padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px;
-    height: 226px;
-    width: 33%;
-}
-
-.box2 {
-    padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px;
-    height: 226px;
-    width: 33%;
-}
-
-.box3 {
-    padding-left: 35px;
-    padding-bottom: 96px;
-    padding-right: 35px;
-    width: 33%;
-    height: 226px;
-} */
-
-/* .cle {
-    text-align: center;
-}
-
-.cla {
-    text-align: center;
-}
-
-.cls {
-    text-align: center;
-} */
