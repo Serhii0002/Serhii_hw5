@@ -36,14 +36,24 @@ h1 {
     margin-bottom: 30px;
 }
 
-.box1 {
+h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+span {
+    width: 200px;
+    height: 36px;
+}
+
+/* .box1 {
     height: 226px;
     width: 200px;
     padding-left: 35px;
     padding-bottom: 96px;
     padding-right: 35px;
     background-color: #e0e0e0;
-}
+} */
 /* .describe {
     text-align: center;
 } */
